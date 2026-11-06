@@ -27,6 +27,12 @@ Developed an interactive Mobile Sales Dashboard using Microsoft Power BI to anal
 ## Repository Structure
 Dashboard: https://github.com/vijayvr8668-hue/Mobile-Sales-Dashboard/blob/main/power%20bi.pbix<br>
 
+Dataset: https://github.com/vijayvr8668-hue/Mobile-Sales-Dashboard/blob/main/Mobile_sales_dashboard.xlsx<br>
+
 Screenshots: <img width="1177" height="661" alt="Screenshot 2026-10-23 154030" src="https://github.com/user-attachments/assets/24473391-d4ff-418f-8f1a-9a2a116eecd0" />
 
-Dataset: https://github.com/vijayvr8668-hue/Mobile-Sales-Dashboard/blob/main/Mobile_sales_dashboard.xlsx<br>
+## Feedback & Collaboration
+Feedback and suggestions are always welcome!
+Feel free to explore the project, share your ideas, and contribute to improvements.
+
+Thank you for visiting my project!
