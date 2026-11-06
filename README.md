@@ -16,3 +16,15 @@ Developed an interactive Mobile Sales Dashboard using Microsoft Power BI to anal
 6. **Customer Rating Analysis:** Evaluated customer ratings to understand customer satisfaction and purchasing experience.
 
 7. **Interactive Dashboard:** Used charts, slicers, and filters to enable users to explore sales data and generate meaningful insights.
+
+## Why This Project Stands Out
+- Interactive and user-friendly dashboard.
+- Provides meaningful sales insights.
+- Analyzes brand, city, and customer trends.
+- Uses Power Query and DAX for data analysis.
+- Supports data-driven business decisions.
+
+## Repository Structure
+Dashboard/ – Power BI dashboard fil
+Screenshots/ – Dashboard preview image.
+Dataset: https://github.com/vijayvr8668-hue/Mobile-Sales-Dashboard/blob/main/Mobile_sales_dashboard.xlsx
